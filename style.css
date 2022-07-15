@@ -1,0 +1,39 @@
+#titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: cornflowerblue;
+    color: white;
+    font-family: Cambria, arial;
+}
+
+#section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+#formulario{
+    font-family: arial;
+    outline: unset;
+    padding: 20px;
+    width: 300px;
+    border: 1px solid cornflowerblue;
+    border-radius: 20px;
+}
+
+#name{
+    font-family: arial;
+    outline: unset;
+    border: 1px solid cornflowerblue;
+    border-radius: 20px;
+}
+
+#send{
+    font-family: arial;
+    outline: unset;
+    border: 1px solid cornflowerblue;
+    border-radius: 20px;
+}
